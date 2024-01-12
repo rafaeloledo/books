@@ -1,0 +1,26 @@
+# TODO
+
+Read all these books
+
+- A Digital Signal Processing Primer: With Applications to Digital Audio and Computer Music (Kenneth Steiglitz)
+- Hypercomplex Numbers: An Elementary Introduction to Algebras (I.L Kantor and A.S Solodovnikov)
+- Linear Algebra Done Right (Sheldon Axler)
+- Introduction to Algorithms (Thomas H Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein)
+- Compilers: Principles, Techniques and Tools (Alfred V Aho, Monica S. Lam, Ravi Sethi and Jeffrey D. Ullman)
+- The Design and Evolution of C++ (Bjarne Stroustrup)
+- Object-Oriented Analysis and Design with Applications (Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen, Kelli A. Houston)
+- UML Distilled: A Brief Guide to the Standard Object Modeling Language (Martin Flower, Cris Kobryn, Grady Booch, Ivar Jacobson and Jim Rumbaugh)
+- Refactoring: Improving the Design of Existing Code (Martin Flower and Kent Beck)
+- Agile Software Development with Scrum (Ken Schwaber, Mike Beedle and Robert C. Martin)
+- Extreme Programming Explained: Embrace Change (Kent Beck, Cynthia Andres and Erich Gamma)
+- Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin and James O. Coplien)
+- The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin and Matthew Heusser)
+- The Pragmatic Programmer: From Journeyman to Master (Andrew Hunt, David Thomas and Ward Cunningham)
+- Design Patterns: Elements of Reusable Object-Oriented Software (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides)
+- Patterns of Enterprise Application Architecture (Martin Flower, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee and Randy Stafford)
+- Concrete Mathematics: A Foundation for Computer Science (Ronald L. Graham, Donald E. Knuth and Oren Patashnik)
+- The Art of Computer Programming: Volume 1: Fundamental Algorithms (Donald E. Knuth)
+- The Art of Computer Programming: Volume 2: Seminumerical Algorithms (Donald E. Knuth)
+- The Art of Computer Programming: Volume 3: Sorting and Searching (Donald E. Knuth)
+- The Art of Computer Programming: Volume 4A: Combinatorial Algorithms, Part 1 (Donald E. Knuth)
+- The Art of Computer Programming: Volume 4B: Combinatorial Algorithms, Part 2 (Donald E. Knuth)
